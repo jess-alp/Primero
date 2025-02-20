@@ -1,0 +1,7 @@
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    h2{
+        border: solid 2px red;
+    }
+}
